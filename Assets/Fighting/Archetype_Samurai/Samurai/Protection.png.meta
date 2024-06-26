@@ -126,12 +126,12 @@ TextureImporter:
       name: Protection_0
       rect:
         serializedVersion: 2
-        x: 49
+        x: 0
         y: 0
-        width: 53
-        height: 69
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -147,12 +147,12 @@ TextureImporter:
       name: Protection_1
       rect:
         serializedVersion: 2
-        x: 177
+        x: 128
         y: 0
-        width: 49
-        height: 69
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
